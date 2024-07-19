@@ -17,5 +17,13 @@ public class GithubCicdActionsApplication {
 	public String welcome() {
 		return "Demo For GitHub Actions";
 	}
+	
+//	echo "# github-actions" >> README.md
+//	git init
+//	git add README.md
+//	git commit -m "first commit"
+//	git branch -M main
+//	git remote add origin https://github.com/josephjames9405/github-actions.git
+//	git push -u origin main
 
 }
